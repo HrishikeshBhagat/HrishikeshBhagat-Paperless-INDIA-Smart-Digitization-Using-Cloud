@@ -1,7 +1,7 @@
 # Paperless-INDIA-Smart-Digitization-Using-Cloud
 some of the useful data of project.
 
-#Problem Definition:
+Problem Definition:
 For Public Sector and Government Agencies, with millions of documents, a document management system is becoming a mandate to organize, index and control theirdocuments in a hassle-free manner.
 Public Sector and Government Agencies deal withDocuments which range from Public View documents, Tenders, to the most Confidential and Secret Documentswhich are intended only for view of certain designated personnel.
 Storing all these documents as physical records not just consumes a lot of space but also is a tedious affair to filethese documents and manage them safely with restricted access.
